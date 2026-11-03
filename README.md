@@ -1,6 +1,6 @@
-# Moment4
+# 하루픽
 
-하루를 관심사 네 컷으로 남기는 사진 일기 앱(Android)의 소개 페이지와
+하루를 고르고 기억하는 사진 일기 앱(Android)의 소개 페이지와
 개인정보처리방침입니다.
 
 - 소개: <https://pypielab.github.io/privacy-policy/>
